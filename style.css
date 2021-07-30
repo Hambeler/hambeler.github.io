@@ -1,0 +1,37 @@
+* {box-sizing: content-box;}
+
+/*img {
+    position: relative;
+    top: 5px;
+    left: 0%;
+    flood-color: #b7b7b7;
+}
+*/
+.heady {
+    z-index: 2;
+    overflow-x:scroll;
+    flood-color: #5a5a5a !important;
+    padding: 0px, 0px;
+    margin: 0px, 0px;
+    width: 33vw;
+    height: 40vh;
+}
+
+.body {
+    z-index: 1;
+    position: relative;
+    left: 30%;
+    text-align: center;
+    max-width: 500px;
+    background-color: #5a5a5a;
+    width: 33vw;
+}
+
+
+div {
+    z-index: -2;
+    position: relative;
+    left: -50%;
+    width: 200%;
+    background-color: #999999;
+}
