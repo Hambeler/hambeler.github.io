@@ -18,13 +18,14 @@
 }
 
 .body {
+    margin-right: auto;
+    margin-right: auto;
     z-index: 1;
     position: relative;
-    left: 30%;
     text-align: center;
     max-width: 500px;
     background-color: #5a5a5a;
-    width: 33vw;
+    width: 33%;
 }
 
 
