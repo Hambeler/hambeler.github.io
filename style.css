@@ -19,14 +19,12 @@
 
 .body {
     margin-right: auto;
-    margin-right: auto;
+    margin-left: auto;
     z-index: 1;
     position: relative;
     text-align: center;
     max-width: 500px;
     background-color: #5a5a5a;
-    width: 66%;
-    align: center;
 }
 
 
