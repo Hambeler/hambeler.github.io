@@ -32,5 +32,8 @@ div {
     z-index: -2;
     position: relative;
     background-color: #999999;
-    padding-top: 20px
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
 }
