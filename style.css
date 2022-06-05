@@ -18,12 +18,12 @@
 }
 
 .body {
+    width: 75;
     margin-right: auto;
     margin-left: auto;
     z-index: 1;
     position: relative;
     text-align: center;
-    max-width: 500px;
     background-color: #5a5a5a;
 }
 
@@ -31,7 +31,6 @@
 div {
     z-index: -2;
     position: relative;
-    left: -50%;
-    width: 200%;
     background-color: #999999;
+    padding-top: 20px
 }
